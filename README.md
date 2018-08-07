@@ -1,3 +1,4 @@
+Download the dataset from https://www.kaggle.com/sthakky/mercaridatasets
 This code helps to predict the price of an object by using various models.
 In this code:
 # CLEANSING OF TEXT
